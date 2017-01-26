@@ -1,4 +1,4 @@
-//Website - https://projecteuler.net
+//Website - https://projecteuler.net/archives
 
 //Author: Alex
 
